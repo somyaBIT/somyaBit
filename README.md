@@ -1,4 +1,4 @@
-7777<h1 align="center">Hi 👋, I'm SOMYA SINGH</h1>
+<h1 align="center">Hi 👋, I'm SOMYA SINGH</h1>
 <h3 align="center">Psyched about the latest technology</h3>
 
 - 📫 How to reach me **somya4287@gmail.com**
