@@ -2,13 +2,6 @@
 <h3 align="center">Psyched about the latest technology</h3>
 
 
-<p align="center">
-  
-<img src="https://img.shields.io/badge/-somya-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_somya._.singh._chauhan_/"/>
-<img src="https://img.shields.io/badge/-somya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somya4247@gmail.com"/>
-<img src="https://img.shields.io/badge/-somya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somya-singh-597b0b16a/"/>
-
-</p>
 
 - ⚡ Fun fact **I am Crazy**
 
