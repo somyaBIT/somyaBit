@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/somyaBit/somyaBit/main/back.png.mp4"/>
+<img src="https://github.com/somyaBit/somyaBit/main/back.png.mp4" object-fit="cover" width="100%">
 <h1 align="center">Hi 👋, I'm SOMYA SINGH</h1>
 <h3 align="center">Psyched about the latest technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
